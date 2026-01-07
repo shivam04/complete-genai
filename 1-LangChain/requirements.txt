@@ -6,3 +6,4 @@ langchain-community
 beautifulsoup4
 faiss-cpu
 langchain-classic
+streamlit
