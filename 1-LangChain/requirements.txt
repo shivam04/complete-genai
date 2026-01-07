@@ -2,3 +2,7 @@ langchain
 ipykernel
 python-dotenv
 langchain-openai
+langchain-community
+beautifulsoup4
+faiss-cpu
+langchain-classic
