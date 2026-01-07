@@ -1,0 +1,10 @@
+langchain
+langchain-chroma
+langchain-groq
+python-dotenv
+langchain-core
+langchain-huggingface
+sentence-transformers
+bs4
+langchain-classic
+langchain-community
