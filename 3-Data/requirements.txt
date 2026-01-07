@@ -8,3 +8,7 @@ bs4
 pymupdf
 wikipedia
 langchain-text-splitters
+langchain-openai
+chromadb
+sentence-transformers
+langchain-huggingface
