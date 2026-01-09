@@ -47,4 +47,4 @@ if prompt:=st.chat_input(placeholder="What is machine learning?"):
             ]
         })
         st.session_state.messages.append({'role': 'assistant', "content": response["messages"][-1].content})
-        st.write(response)
+        st.write(response["messages"][-1].content)
