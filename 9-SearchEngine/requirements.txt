@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+openai
+wikipedia
+arxiv
+langchain-text-splitters
+ipykernel
+faiss-cpu
+langchain-classic
+streamlit
+duckduckgo-search
+ddgs
