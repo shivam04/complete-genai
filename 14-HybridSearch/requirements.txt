@@ -1,0 +1,9 @@
+pinecone
+pinecone-text
+pinecone-notebooks
+langchain
+langchain-community
+ipykernel
+python-dotenv
+langchain-huggingface
+sentence-transformers
